@@ -16,7 +16,7 @@ This project is a Shoes e-Commerce.
 
 
 ## Project preview 🖼️
-![Captura del proyecto](https://github.com/arkhanis/LandingPage-agency/blob/master/assets/images/screenshot.png)
+![Captura del proyecto](https://github.com/arkhanis/HTML_ecommerce-Shoes/blob/master/assets/readme-img/screenshot.png)
 
 
 ## Installation 💻
